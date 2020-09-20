@@ -1,0 +1,15 @@
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Resources\Name_and_tail_length.txt
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Resources\Сoordinates_and_required_tail_length.txt
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Resources\VC.png
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Coordinate_and_tail_length.exe.config
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Coordinate_and_tail_length.exe.manifest
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Coordinate_and_tail_length.application
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\bin\x64\test\Coordinate_and_tail_length.exe
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.Form1.resources
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.Properties.Resources.resources
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.Table.resources
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.exe.manifest
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.application
+C:\Users\valer\Desktop\Учеба\12 семестр\Диплом\Coordinate_and_tail_length\Coordinate_and_tail_length\obj\x64\test\Coordinate_and_tail_length.exe
